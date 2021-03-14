@@ -54,9 +54,5 @@ Consulte o arquivo LICENSE.md, para maiores detalhes.
 Site feito por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
-## 🎁 Agradecimentos
-* Agradeço a Deus pela oportunidade de fazer um site sobre mim, para exibir meus trabalhos.
-
-
 ---
 ⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
