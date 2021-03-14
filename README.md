@@ -51,7 +51,7 @@ Aí, será necessário ir em cada uma delas e, clicar no raio com o I no canto s
 Consulte o arquivo LICENSE.md, para maiores detalhes.
 
 ## ✒️ Autores
-Site feito por mim - [Lucbm99](https://github.com/Lucbm99)
+Banco de dados feito por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
 ---
