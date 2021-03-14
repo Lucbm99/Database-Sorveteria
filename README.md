@@ -41,18 +41,13 @@ Aí, será necessário ir em cada uma delas e, clicar no raio com o I no canto s
 
 
 
-## 📦 Status do Site
+## 📦 Status do Banco de Dados 
 
 🚧  Finalizado 🚧
 📦 Link de acesso: https://www.lucasbmarchiori.com.br 📦
 
 ## 🛠️ Feito com
-* [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado.
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação de texto utilizada.
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Folha de estilos utilizada.
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Utilizado para animações e eventos da página. 
-* [jQuery] (https://jquery.com/) - Utilizado para animações e eventos da página. 
-
+* [MySQL](https://www.mysql.com/) - Banco de dados utilizado.
 
 ## ✒️ Licença 
 Consulte o arquivo LICENSE.md, para maiores detalhes.
