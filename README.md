@@ -40,11 +40,9 @@ Aí, será necessário ir em cada uma delas e, clicar no raio com o I no canto s
 ![image](https://user-images.githubusercontent.com/45500959/111078284-6efd6c00-84d3-11eb-98a7-cf64e189c639.png)
 
 
-
 ## 📦 Status do Banco de Dados 
-
 🚧  Finalizado 🚧
-📦 Link de acesso: https://www.lucasbmarchiori.com.br 📦
+
 
 ## 🛠️ Feito com
 * [MySQL](https://www.mysql.com/) - Banco de dados utilizado.
